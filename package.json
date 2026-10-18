@@ -1,0 +1,15 @@
+{
+  "name": "airplane-skywriting-heart",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-screen dynamic HTML5 Canvas animation of an airplane skywriting a heart shape",
+  "scripts": {
+    "dev": "vite --host --port 5173 --open",
+    "start": "vite --host --port 5173 --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.14"
+  }
+}
